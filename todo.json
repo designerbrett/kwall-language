@@ -4,7 +4,7 @@
 			"title": {
 				"text": "Creative Brief"
 			},
-			"text": "<em>Text here</em>"
+			"text": "<p><i>I'm sharing a link to a Google Doc, it's our Creative Brief.</i></p><p><i>Link: https://docs.google.com/document/d/1_NxQFVOfSrOC41wRPDiYAMUd1v-jjmQvrZFQys7p8fs/edit?usp=sharing&nbsp;</i></p><p><i>Anyone with this link will have the ability to view and edit this document. When ready, you can fill out your answers directly on the google doc. Once we agree that the document is final, I will turn it into a 'view only' document and make a .pdf that is distributed to our creative team-members. &nbsp;</i></p><p><i>I'm setting the due date to November 2nd, but the sooner the better!&nbsp;</i></p><p><i>As always, please let me know if you have any questions.&nbsp;</i></p>"
 		},
 		{
 			"title": {
@@ -30,7 +30,7 @@
 		},
 		{
 			"title": "Homepage Designs",
-			"text": "<p>Hey [client name]</p><p>Follow the link here: [link to invision] to view the 2 homepage concepts. Please pass this around to whomever you need to on your team and comment any changes or thoughts.</p><p><br></p><p>Like the wireframes there are tour points set up on these designs as well to help give you a quick run through of our thinking.</p><p><br></p><p>With these we hope to pick a direction or find sections that we want to frankenstein together. From that one direction we'll make revisions and create the mobile display.</p><p><br></p><p>Please let us know if you have any questions or want to jump on a call quickly to run through any of our thoughts. Thanks.</p>"
+			"text": "Hey [client name]Follow the link here: [link to invision] to view the 2 homepage concepts. Please pass this around to whomever you need to on your team and comment any changes or thoughts.<br>Like the wireframes there are tour points set up on these designs as well to help give you a quick run through of our thinking.<br>With these we hope to pick a direction or find sections that we want to frankenstein together. From that one direction we'll make revisions and create the mobile display.<br>Please let us know if you have any questions or want to jump on a call quickly to run through any of our thoughts. Thanks."
 		},
 		{
 			"title": "Styleguide",
@@ -38,19 +38,19 @@
 		},
 		{
 			"title": "User Personas",
-			"text": "<em>Text</em>"
+			"text": "<p>I’m attaching our User Personas. We really like to encourage committee members, project stakeholders, anyone involved to step outside the bounds of their own department or personal web desires and think about the end-users. These personas are intended help the team get a look at the end-user, the desires or challenges they face and encourage the group to think about providing solutions to those users. Please let me know if you have any questions. :smile:&nbsp;</p>"
 		},
 		{
 			"title": "Competitive Analysis",
-			"text": "<em>Text</em>"
+			"text": "attached you'll find the finds from our competitive analysis. Each site has a pros and cons list as well as what CMS that site is using. At the very end there is a summary of the general finds from all sites reviewed. Let us know if you have any questions."
 		},
 		{
 			"title": "Interior Designs",
-			"text": "<em>Text</em>"
+			"text": "<span id=\"_mce_caret\" data-mce-bogus=\"true\">﻿</span>Follow the link: https://invis.io/XKAAOKZAR and past the homepage to view the interior designs. Comment and let us know what you think. We'll discuss these during our next call.<br data-mce-bogus=\"1\">"
 		},
 		{
 			"title": "Focus Group Report",
-			"text": "<em>Text</em>"
+			"text": "<p>attached are the results from the focus groups!</p>"
 		},
 		{
 			"title": "Interior Wireframes",
@@ -59,6 +59,9 @@
 		{
 			"title": "Campus Maps",
 			"text": "<em>Text</em>"
+		},
+		{
+			"title": "Survey Report"
 		}
 	]
 }
