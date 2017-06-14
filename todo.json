@@ -2,12 +2,13 @@
 	"post": [
 		{
 			"title": {
-				"text": "language"
-			}
+				"text": "Creative Brief"
+			},
+			"text": "Text here"
 		},
 		{
 			"title": {
-				"text": "3"
+				"text": "Sitemap Workshop"
 			}
 		}
 	]
