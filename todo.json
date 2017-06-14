@@ -4,12 +4,16 @@
 			"title": {
 				"text": "Creative Brief"
 			},
-			"text": "Text here"
+			"text": "<em>Text here</em>"
 		},
 		{
 			"title": {
 				"text": "Sitemap Workshop"
-			}
+			},
+			"text": "<p>[client name] Thanks for taking the time to meet with us and get started with the sitemap. Attached you’ll find a pdf of the presentation I went over as well as the xmind file of the sitemap we worked on. Download the xmind program here: <a data-mce-href=\"http://www.xmind.net/\" href=\"http://www.xmind.net/\">http://www.xmind.net/</a></p><p>Also note the websites that I showed during out meeting:</p><p>[Include any websites shown during the meeting that they may be interested in]<br>http://www.csulb.edu/ (large megamenu)<br>https://www.millikin.edu/academics (megamenu and academics section)</p><p>Feel free to forward this to the rest of the team to get started. Be sure to meeting with your team again and send us back the finished sitemap/xmind file.</p><p><strong>Note: Upload the </strong>xmind<strong> file and pdf of the presentation to Asana.</strong></p>"
+		},
+		{
+			"title": "Homepage Wireframe<br data-mce-bogus=\"1\">"
 		}
 	]
 }
