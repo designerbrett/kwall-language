@@ -17,8 +17,16 @@
 			"text": "<p>[client name] Thanks for taking the time to meet with us and get started with the sitemap. Attached you’ll find a pdf of the presentation I went over as well as the xmind file of the sitemap we worked on. Download the xmind program here: <a data-mce-href=\"http://www.xmind.net/\" href=\"http://www.xmind.net/\">http://www.xmind.net/</a></p><p>Also note the websites that I showed during out meeting:</p><p>[Include any websites shown during the meeting that they may be interested in]<br>http://www.csulb.edu/ (large megamenu)<br>https://www.millikin.edu/academics (megamenu and academics section)</p><p>Feel free to forward this to the rest of the team to get started. Be sure to meeting with your team again and send us back the finished sitemap/xmind file.</p><p><strong>Note: Upload the </strong>xmind<strong> file and pdf of the presentation to Asana.</strong></p>"
 		},
 		{
+			"title": "Focus Group Report",
+			"text": "<p>attached are the results from the focus groups!</p>"
+		},
+		{
 			"title": "Homepage Wireframe",
 			"text": "<p>Hey Team, [client name]</p><p>Follow the link here: [link to invision] to view the very simple prototype. This will allow us to give your team a very simple preview of the wireframes in the browser rather than plain jpg or a pdf. Please pass this around to whomever you need to on your team.</p><p><br></p><p>Little Invision walkthrough for you:</p><p>1. You'll see blue dots on the page, I've set up some tour points to help walk you through each section, click on one and you'll see previous and next links to jump to the next point.</p><p>2. You can add your own comments and questions to the mockups. At the bottom right corner, you can click the comments text, it will activate the commenting view. You can add specific points and comments throughout the mockup.</p><p>3. To jump to the next screen, there are arrows on either side of the browser window. Also, at the bottom right there is a 9 grid icon which will pop up a thumbnail of each wireframe.</p><p><br></p><p>Comment on any sections or content that should change or be added. We'll respond back or make the changes for our next revision. Typically at this point, we try to take what we like about both and combine them into one wireframe. Or maybe one is the perfect direction. We can, of course, run through these during a call or the sitemap workshop and map out the direction we want to go forward with.&nbsp;</p><p><br></p><p>Please let us know if you have any questions or want to jump on a call quickly to run through any of our thoughts. Thanks.</p><p><br></p><p>Note:</p><p>Be sure you have the walkthrough points created before posting.</p>"
+		},
+		{
+			"title": "Interior Wireframes",
+			"text": "<p>Follow the links below to see the interior wireframes. Run through them with your team and we can have a bigger discussion during our next call.</p><p>Desktop: https://invis.io/KNAT529PH</p><p>Tablet: https://invis.io/YUAZ52BC8</p><p>Mobile: https://invis.io/EYAZ5EZPF</p>"
 		},
 		{
 			"title": "Wireframe Revisions",
@@ -29,40 +37,32 @@
 			"text": "Hey [client name]Follow the link here: [link to invision] to view the 2 homepage concepts. Please pass this around to whomever you need to on your team and comment any changes or thoughts.<br>Like the wireframes there are tour points set up on these designs as well to help give you a quick run through of our thinking.<br>With these we hope to pick a direction or find sections that we want to frankenstein together. From that one direction we'll make revisions and create the mobile display.<br>Please let us know if you have any questions or want to jump on a call quickly to run through any of our thoughts. Thanks."
 		},
 		{
-			"title": "Design Revisions",
-			"text": "Link here you'll see the updated branding and menu design. If you hover over the academics link you'll see the mega menu.&nbsp;<br data-mce-bogus=\"1\">"
-		},
-		{
 			"title": "Interior Designs",
 			"text": "<span id=\"_mce_caret\" data-mce-bogus=\"true\">﻿</span>Follow the link: https://invis.io/XKAAOKZAR and past the homepage to view the interior designs. Comment and let us know what you think. We'll discuss these during our next call.<br data-mce-bogus=\"1\">"
+		},
+		{
+			"title": "Design Revisions",
+			"text": "Link here you'll see the updated branding and menu design. If you hover over the academics link you'll see the mega menu.&nbsp;<br data-mce-bogus=\"1\">"
 		},
 		{
 			"title": "Mobile/Tablet Designs",
 			"text": "[client name]<br>Attached are the mobile designs in a new link on invision: [invision-link].<br><br>Let us know if you have any questions."
 		},
 		{
-			"title": "Styleguide",
-			"text": "<p>Hey Team, [client name]</p><p>For your review is the interactive style guide that we created to help guide the devs in the styles being used throughout the designs. Not all functions are listed but the generic areas are covered. The code is plain HTML and CSS so many of the interactions will be slightly different than what you see on your new site. [link to creative preview link]</p>"
-		},
-		{
 			"title": "Competitive Analysis",
 			"text": "attached you'll find the finds from our competitive analysis. Each site has a pros and cons list as well as what CMS that site is using. At the very end there is a summary of the general finds from all sites reviewed. Let us know if you have any questions."
 		},
 		{
-			"title": "Focus Group Report",
-			"text": "<p>attached are the results from the focus groups!</p>"
-		},
-		{
-			"title": "Interior Wireframes",
-			"text": "<p>Follow the links below to see the interior wireframes. Run through them with your team and we can have a bigger discussion during our next call.</p><p>Desktop: https://invis.io/KNAT529PH</p><p>Tablet: https://invis.io/YUAZ52BC8</p><p>Mobile: https://invis.io/EYAZ5EZPF</p>"
+			"title": "Survey Report",
+			"text": "I am attaching the Online Survey Report. Please review and let me know if you have any questions:)&nbsp;<br data-mce-bogus=\"1\">"
 		},
 		{
 			"title": "Campus Maps",
 			"text": "Attached you'll find the initial design and style that we are looking to implement for the campus map. Let us know if the style looks good and what points or buildings we need to consider when finalizing the map.&nbsp;In terms of functionality and labels, you dont want to have too much static text. The pin points will be somewhat interactive, see NSU example we've built: https://www.northern.edu/about/campus/campusmap"
 		},
 		{
-			"title": "Survey Report",
-			"text": "I am attaching the Online Survey Report. Please review and let me know if you have any questions:)&nbsp;<br data-mce-bogus=\"1\">"
+			"title": "Styleguide",
+			"text": "<p>Hey Team, [client name]</p><p>For your review is the interactive style guide that we created to help guide the devs in the styles being used throughout the designs. Not all functions are listed but the generic areas are covered. The code is plain HTML and CSS so many of the interactions will be slightly different than what you see on your new site. [link to creative preview link]</p>"
 		}
 	]
 }
