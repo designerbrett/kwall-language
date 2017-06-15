@@ -7,6 +7,10 @@
 			"text": "In the link below you'll find our Creative Brief.<br>Link: [Google Doc Link] <br>Anyone with this link will have the ability to view and edit this document. <br><br>When ready, you can fill out your answers directly on the google doc. Once we agree that the document is final, I will turn it into a 'view only' document and make a .pdf that is distributed to our creative team-members.<br><br>As always, please let us know if you have any questions."
 		},
 		{
+			"title": "User Personas",
+			"text": "<p>I’m attaching our User Personas. We really like to encourage committee members, project stakeholders, anyone involved to step outside the bounds of their own department or personal web desires and think about the end-users. These personas are intended help the team get a look at the end-user, the desires or challenges they face and encourage the group to think about providing solutions to those users. Please let me know if you have any questions. :smile:&nbsp;</p>"
+		},
+		{
 			"title": {
 				"text": "Sitemap Workshop"
 			},
@@ -39,10 +43,6 @@
 		{
 			"title": "Styleguide",
 			"text": "<p>Hey Team, [client name]</p><p>For your review is the interactive style guide that we created to help guide the devs in the styles being used throughout the designs. Not all functions are listed but the generic areas are covered. The code is plain HTML and CSS so many of the interactions will be slightly different than what you see on your new site. [link to creative preview link]</p>"
-		},
-		{
-			"title": "User Personas",
-			"text": "<p>I’m attaching our User Personas. We really like to encourage committee members, project stakeholders, anyone involved to step outside the bounds of their own department or personal web desires and think about the end-users. These personas are intended help the team get a look at the end-user, the desires or challenges they face and encourage the group to think about providing solutions to those users. Please let me know if you have any questions. :smile:&nbsp;</p>"
 		},
 		{
 			"title": "Competitive Analysis",
