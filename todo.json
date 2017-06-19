@@ -62,7 +62,7 @@
 		},
 		{
 			"title": "Campus Maps",
-			"text": "Attached you'll find the initial design and style that we are looking to implement for the campus map. Let us know if the style looks good and what points or buildings we need to consider when finalizing the map.&nbsp;In terms of functionality and labels, you dont want to have too much static text. The pin points will be somewhat interactive, see NSU example we've built: https://www.northern.edu/about/campus/campusmap"
+			"text": "<p>Attached you'll find the initial design and style that we are looking to implement for the campus map. Let us know if the style looks good and what points or buildings we need to consider when finalizing the map.&nbsp;</p><p>In terms of functionality and labels, you don't want to have too much static text. The pin points will be somewhat interactive, see NSU example we've built: <a data-mce-href=\"https://www.northern.edu/about/campus/campusmap\" href=\"https://www.northern.edu/about/campus/campusmap\" data-mce-selected=\"1\">https://www.northern.edu/about/campus/campusmap</a></p>"
 		},
 		{
 			"title": "Styleguide",
