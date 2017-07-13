@@ -66,7 +66,7 @@
 		},
 		{
 			"title": "Styleguide",
-			"text": "<p>Hey Team, [client name]</p><p>For your review is the interactive style guide that we created to help guide the devs in the styles being used throughout the designs. Not all functions are listed but the generic areas are covered. The code is plain HTML and CSS so many of the interactions will be slightly different than what you see on your new site. [link to creative preview link]</p>"
+			"text": "<p><font color=\"#1b2432\" face=\"-apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Helvetica, Arial, sans-serif\"><span style=\"font-size: 13px; white-space: pre-wrap;\">Hey Team, \nFor your review is the interactive style guide ([link to creative preview]) that we create as a starting point for the development of your site and later on as a resource for your content editors to reference if needed. We like to use this to pass the information off to the </span></font><span style=\"color: rgb(27, 36, 50); font-family: -apple-system, system-ui, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 13px; white-space: pre-wrap;\">developers</span><font color=\"#1b2432\" face=\"-apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Helvetica, Arial, sans-serif\"><span style=\"font-size: 13px; white-space: pre-wrap;\"> as well as give the client a glimpse of things moves along. Not all functions are listed but the generic areas are covered. The code is plain HTML and CSS so many of the interactions will be slightly different than what you see on your new site. Not much you have to approve but just know it'll be on the site as a resource.</span></font></p>"
 		}
 	]
 }
