@@ -2,11 +2,11 @@
 	"post": [
 		{
 			"title": "Creative Brief",
-			"text": "In the link below you'll find our Creative Brief.<br>Link: [Google Doc Link] <br>Anyone with this link will have the ability to view and edit this document. <br><br>When ready, you can fill out your answers directly on the google doc. Once we agree that the document is final, I will turn it into a 'view only' document and make a .pdf that is distributed to our creative team-members.<br><br>As always, please let us know if you have any questions."
+			"text": "[client name]<br>In the link below you'll find our Creative Brief.<br>Link: [Google Doc Link] <br>Anyone with this link will have the ability to view and edit this document. <br><br>When ready, you can fill out your answers directly on the google doc. Once we agree that the document is final, I will turn it into a 'view only' document and make a .pdf that is distributed to our creative team-members.<br><br>As always, please let us know if you have any questions."
 		},
 		{
 			"title": "User Personas",
-			"text": "Attached are the User Personas that our team has assembled. We really like to encourage committee members, project stakeholders, anyone involved to step outside the bounds of their own department or personal web desires and think about the end-users. These personas are intended help the team gets a look at the end-user, the desires or challenges they face and encourage the group to think about providing solutions to those users. Please let me know if you have any questions."
+			"text": "[client name]<br>Attached are the User Personas that our team has assembled. We really like to encourage committee members, project stakeholders, anyone involved to step outside the bounds of their own department or personal web desires and think about the end-users. These personas are intended help the team gets a look at the end-user, the desires or challenges they face and encourage the group to think about providing solutions to those users. Please let me know if you have any questions."
 		},
 		{
 			"title": "Sitemap Workshop",
@@ -14,55 +14,55 @@
 		},
 		{
 			"title": "Competitive Analysis",
-			"text": "Attached you'll find the findings from our competitive analysis. Each site has a pros and cons list as well as what CMS that site is using. At the very end, there is a summary of the general finds from all sites reviewed. Let us know if you have any questions."
+			"text": "[client name]<br>Attached you'll find the findings from our competitive analysis. Each site has a pros and cons list as well as what CMS that site is using. At the very end, there is a summary of the general finds from all sites reviewed. Let us know if you have any questions."
 		},
 		{
 			"title": "Survey Report",
-			"text": "Attached is the Online Survey Report where we show some of the high level and important findings from the surveys. Please review and let me know if you have any questions."
+			"text": "[client name]<br>Attached is the Online Survey Report where we show some of the high level and important findings from the surveys. Please review and let me know if you have any questions."
 		},
 		{
 			"title": "Focus Group Report",
-			"text": "Attached are the results from the focus groups!"
+			"text": "[client name]<br>Attached are the results from the focus groups!"
 		},
 		{
 			"title": "Homepage Wireframe",
-			"text": "Hey Team, [client name]<br>Follow the link here: <strong>[link to invision]</strong> to view the very simple prototype. This will allow us to give your team a very simple preview of the wireframes in the browser rather than plain jpg or a pdf. Please pass this around to whomever you need to on your team.<br><br>Little Invision walkthrough for you:<br><ol><li>You'll see blue dots on the page, I've set up some tour points to help walk you through each section, click on one and you'll see previous and next links to jump to the next point.</li><li>You can add your own comments and questions to the mockups. At the bottom right corner, you can click the comments text, it will activate the commenting view. You can add specific points and comments throughout the mockup.</li><li>To jump to the next screen, there are arrows on either side of the browser window. Also, at the bottom right there is a 9 grid icon which will pop up a thumbnail of each wireframe.</li></ol>Comment on any sections or content that should change or be added. We'll respond back or make the changes for our next revision. Typically at this point, we try to take what we like about both and combine them into one wireframe. Or maybe one is the perfect direction. We can, of course, run through these during a call or the sitemap workshop and map out the direction we want to go forward with.&nbsp;<br><br>Please let us know if you have any questions or want to jump on a call quickly to run through any of our thoughts. Thanks.<br><br><strong>Note: Be sure you have the walkthrough points created before posting</strong>."
+			"text": "[client name]<br>Follow the link here: <strong>[link to invision]</strong> to view the very simple prototype. This will allow us to give your team a very simple preview of the wireframes in the browser rather than plain jpg or a pdf. Please pass this around to whomever you need to on your team.<br><br>Little Invision walkthrough for you:<br><ol><li>You'll see blue dots on the page, I've set up some tour points to help walk you through each section, click on one and you'll see previous and next links to jump to the next point.</li><li>You can add your own comments and questions to the mockups. At the bottom right corner, you can click the comments text, it will activate the commenting view. You can add specific points and comments throughout the mockup.</li><li>To jump to the next screen, there are arrows on either side of the browser window. Also, at the bottom right there is a 9 grid icon which will pop up a thumbnail of each wireframe.</li></ol>Comment on any sections or content that should change or be added. We'll respond back or make the changes for our next revision. Typically at this point, we try to take what we like about both and combine them into one wireframe. Or maybe one is the perfect direction. We can, of course, run through these during a call or the sitemap workshop and map out the direction we want to go forward with.&nbsp;<br><br>Please let us know if you have any questions or want to jump on a call quickly to run through any of our thoughts. Thanks.<br><br><strong>Note: Be sure you have the walkthrough points created before posting</strong>."
 		},
 		{
 			"title": "Interior Wireframes",
-			"text": "Follow the links below to see the interior wireframes. Run through them with your team and we can have a bigger discussion during our next call.<br>Desktop:&nbsp;<strong>[link to invision]</strong><br>Tablet:&nbsp;<strong>[link to invision]</strong><br>Mobile:&nbsp;<strong>[link to invision]</strong>"
+			"text": "[client name]<br>Follow the links below to see the interior wireframes. Run through them with your team and we can have a bigger discussion during our next call.<br>Desktop:&nbsp;<strong>[link to invision]</strong><br>Tablet:&nbsp;<strong>[link to invision]</strong><br>Mobile:&nbsp;<strong>[link to invision]</strong>"
 		},
 		{
 			"title": "Wireframe Revisions",
-			"text": "We've uploaded the interior wireframes for your review, [invision link].<br><br>Let us know if there are is any content missing or content you would like to have space for.&nbsp;<br>"
+			"text": "[client name]<br>We've uploaded the interior wireframes for your review,&nbsp;<strong>[link to invision]</strong>.<br><br>Let us know if there are is any content missing or content you would like to have space for.&nbsp;<br>"
 		},
 		{
 			"title": "Homepage Designs",
-			"text": "Hey [client name]Follow the link here: [link to invision] to view the 2 homepage concepts. Please pass this around to whomever you need to on your team and comment any changes or thoughts.<br>Like the wireframes there are tour points set up on these designs as well to help give you a quick run through of our thinking.<br>With these we hope to pick a direction or find sections that we want to frankenstein together. From that one direction we'll make revisions and create the mobile display.<br>Please let us know if you have any questions or want to jump on a call quickly to run through any of our thoughts. Thanks."
+			"text": "[client name]<br>Follow the link here:&nbsp;<strong>[link to invision]</strong>&nbsp;to view the 2 homepage concepts. Please pass this around to whomever you need to on your team and comment any changes or thoughts.<br><br>Like the wireframes, there are tour points set up on these designs as well to help give you a quick run through of our thinking.<br><br>With these, we hope to pick a direction or find sections that we want to frankenstein together. From that one direction, we'll make revisions and create the mobile display.<br><br>Please let us know if you have any questions or want to jump on a call quickly to run through any of our thoughts. Thanks."
 		},
 		{
 			"title": "Menu Designs",
-			"text": "<p>Attached you'll find some designs for the mega menu and the mobile sliding menu. The first design has multiple columns a featured image and caption section as well as a quicklinks area. Second design has two columns with a image block and single column of links. The mobile menu slides in and then the menu items expand to show the second level of links.</p><p>Let us know what you think and which menu direction you want to continue with.</p>"
+			"text": "[client name]<br>Attached you'll find some designs for the mega menu and the mobile sliding menu. The first design has multiple columns a featured image and caption section as well as a quick links area. <br><br>The second design has two columns with an image block and single column of links. The mobile menu slides in and then the menu items expand to show the second level of links.Let us know what you think and which menu direction you want to continue with."
 		},
 		{
 			"title": "Interior Designs",
-			"text": "<span id=\"_mce_caret\" data-mce-bogus=\"true\">﻿</span>Follow the link: https://invis.io/XKAAOKZAR and past the homepage to view the interior designs. Comment and let us know what you think. We'll discuss these during our next call.<br data-mce-bogus=\"1\">"
+			"text": "[client name]<br>Follow the link:&nbsp;<strong>[link to invision]</strong>&nbsp;and past the homepage to view the interior designs. Comment and let us know what you think. We'll discuss these during our next call."
 		},
 		{
 			"title": "Design Revisions",
-			"text": "Link here you'll see the updated branding and menu design. If you hover over the academics link you'll see the mega menu.&nbsp;<br data-mce-bogus=\"1\">"
+			"text": "[client name]<br>Link here you'll see the updated branding and menu design. If you hover over the academics link you'll see the mega menu."
 		},
 		{
 			"title": "Mobile/Tablet Designs",
-			"text": "[client name]<br>Attached are the mobile designs in a new link on invision: [invision-link].<br><br>Let us know if you have any questions."
+			"text": "I[client name]<br>Attached are the mobile designs in a new link on invision:&nbsp;<strong>[link to invision]</strong>.<br><br>Let us know if you have any questions."
 		},
 		{
 			"title": "Campus Maps",
-			"text": "<p>Attached you'll find the initial design and style that we are looking to implement for the campus map. Let us know if the style looks good and what points or buildings we need to consider when finalizing the map.&nbsp;</p><p>In terms of functionality and labels, you don't want to have too much static text. The pin points will be somewhat interactive, see NSU example we've built: <a data-mce-href=\"https://www.northern.edu/about/campus/campusmap\" href=\"https://www.northern.edu/about/campus/campusmap\" data-mce-selected=\"1\">https://www.northern.edu/about/campus/campusmap</a></p>"
+			"text": "[client name]<br>Attached you'll find the initial design and style that we are looking to implement for the campus map. Let us know if the style looks good and what points or buildings we need to consider when finalizing the map.&nbsp;<br><br>In terms of functionality and labels, you don't want to have too much static text. The pin points will be somewhat interactive, see NSU example we've built: <a data-mce-href=\"https://www.northern.edu/about/campus/campusmap\" href=\"https://www.northern.edu/about/campus/campusmap\">https://www.northern.edu/about/campus/campusmap</a>"
 		},
 		{
 			"title": "Styleguide",
-			"text": "<p><font color=\"#1b2432\" face=\"-apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Helvetica, Arial, sans-serif\"><span style=\"font-size: 13px; white-space: pre-wrap;\">Hey Team, \nFor your review is the interactive style guide ([link to creative preview]) that we create as a starting point for the development of your site and later on as a resource for your content editors to reference if needed. We like to use this to pass the information off to the </span></font><span style=\"color: rgb(27, 36, 50); font-family: -apple-system, system-ui, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 13px; white-space: pre-wrap;\">developers</span><font color=\"#1b2432\" face=\"-apple-system, system-ui, Segoe UI, Roboto, Helvetica Neue, Helvetica, Arial, sans-serif\"><span style=\"font-size: 13px; white-space: pre-wrap;\"> as well as give the client a glimpse of things moves along. Not all functions are listed but the generic areas are covered. The code is plain HTML and CSS so many of the interactions will be slightly different than what you see on your new site. Not much you have to approve but just know it'll be on the site as a resource.</span></font></p>"
+			"text": "[client name]<br>For your review is the interactive style guide <strong>[link to creative preview]</strong> that we create as a starting point for the development of your site and later on as a resource for your content editors to reference if needed. We like to use this to pass the information off to the developers as well as give the client a glimpse of things moves along. <br><br>Not all functions are listed but the generic areas are covered. The code is plain HTML and CSS so many of the interactions will be slightly different than what you see on your new site. Not much you have to approve but just know it'll be on the site as a resource. Let us know if you have any questions.<br data-mce-bogus=\"1\">"
 		}
 	]
 }
