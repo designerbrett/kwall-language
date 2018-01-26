@@ -17,7 +17,8 @@
 			"text": "[client name]<br>Thanks for taking the time to meet with us and get started with the sitemap. Attached you’ll find a pdf of the presentation I went over as well as the xmind file of the sitemap we worked on. Download the xmind program here: <a data-mce-href=\"http://www.xmind.net/\" href=\"http://www.xmind.net/\">http://www.xmind.net/</a>Also note the websites that I showed during our meeting:<br><br>[Include any websites shown during the meeting that they may be interested in]<br><ul><li>http://www.csulb.edu/ (large megamenu)</li><li>https://www.millikin.edu/academics (megamenu and academics section)</li></ul>Feel free to forward this to the rest of the team to get started. Be sure to meeting with your team again and send us back the finished sitemap/xmind file.<br><br><strong>Note: Upload the </strong>xmind<strong> file and pdf of the presentation to Asana.</strong>"
 		},
 		{
-			"title": "User Journeys"
+			"title": "User Journeys",
+			"text": "[client name],<br>Attached you'll find a pdf of the 5 user journeys which map out some key directions that our user personas would navigate through the in-progress sitemap. We want to keep these relatively simple and not show every possible direction they might go but highlight 2-3. Let us know if you have any questions.<br data-mce-bogus=\"1\">"
 		},
 		{
 			"title": "Competitive Analysis",
